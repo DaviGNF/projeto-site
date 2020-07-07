@@ -11,5 +11,5 @@ main {
     width: 500;
     margin: auto;
     padding: 10px;
-    bos-shadow: 3px 3px 5px black;
+    box-shadow: 3px 3px 5px black;
 }
